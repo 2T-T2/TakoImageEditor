@@ -1,6 +1,10 @@
 # TakoImageEditor
 画像編集ソフト<br>
-libフォルダのImageUtil.jarは、<a href="https://github.com/2T-T2/ImageUtil/tree/main/out">ココ</a>にあるやつです。
+libフォルダのImageUtil.jarは、<a href="https://github.com/2T-T2/ImageUtil/tree/main/out">ココ</a>にあるやつです。<br>
+<br>
+ダウンロードしてすぐに使いたい場合<br>
+ - java実行環境あり → <a href="https://github.com/2T-T2/TakoImageEditor/releases/download/v1.0.0.0/doesnot-have-Java-Environment.zip">ここからダウンロード</a>
+ - java実行環境無し → <a href="https://github.com/2T-T2/TakoImageEditor/releases/download/v1.0.0.0/has-Java-Environment.zip">ここからダウンロード</a>
 
 ## make.bat
 
