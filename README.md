@@ -4,7 +4,9 @@ libフォルダのImageUtil.jarは、<a href="https://github.com/2T-T2/ImageUtil
 <br>
 ダウンロードしてすぐに使いたい場合<br>
  - java実行環境あり → <a href="https://github.com/2T-T2/TakoImageEditor/releases/download/v1.0.0.0/doesnot-have-Java-Environment.zip">ここからダウンロード</a>
+ 　　解凍後、run.batで実行
  - java実行環境無し → <a href="https://github.com/2T-T2/TakoImageEditor/releases/download/v1.0.0.0/has-Java-Environment.zip">ここからダウンロード</a>
+ 　　解凍後、TakoImageEditor.exeで実行
 
 ## make.bat
 
