@@ -21,49 +21,42 @@ java実行環境のない人 → 7<br>
 <br>
 
 1. javaファイルをコンパイルしてclassファイルを作成する。
-
 <code>  
   make compile
 </code>
 <hr>
 
 2. javaファイルをコンパイルしてclassファイルを作成し、classファイルを実行する。
-
 <code>
   make compile-run
 </code>
 <hr>
 
 3. classファイルからjarファイルを作成する。
-
 <code>
   make build
 </code>
 <hr>
 
 4. classファイルからjarファイルを作成し、jarファイルを実行する。
-
 <code>
   make build-run
 </code>
 <hr>
 
 5. outディレクトリにプログラムに必要なファイルをコピーする。（outディレクトリからプログラムを実行可能にする）
-
 <code>
   make copy-deps-files
 </code>
 <hr>
 
 6. 1と5と4を実行する。
-
 <code>
   make build-all-run
 </code>
 <hr>
 
 7. 1と5と3を実行して、java実行環境のない Windowsユーザ向けに exeファイルを作成。
-
 <code>
   make mkdist
 </code>
